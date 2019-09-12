@@ -59,6 +59,11 @@
         teamOneGoalCountElement.innerHTML = 0;
         teamTwoShotCountElement.innerHTML = 0;
         teamOneShotCountElement.innerHTML = 0; 
+
+        teamOneShotCount = 0;
+        teamOneGoalCount = 0;
+        teamTwoShotCount = 0;
+        teamTwoGoalCount = 0;
        })
 
        
